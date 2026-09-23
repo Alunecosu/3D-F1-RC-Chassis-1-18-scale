@@ -50,7 +50,7 @@ A modular 1:18 scale open-wheel racing chassis powered by an ESP32-S3 and design
 | Dupont Cable Ribbon Jumper Wire Kit    | Set of 90 pcs |       €6.99 | [AliExpress](https://www.aliexpress.com/item/1005003269498051.html)                |
 | AliExpress Shipping + Import Fees      |             — |      €26.05 | —                                                                                  |
 | **Total**                              |               | **€166.44** |                                                                                    |
-
+| **Total without TPU**                  |               |  **€93.96** |                                                                                    |
 ---
 
 ## 💻 Firmware
