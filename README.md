@@ -35,6 +35,7 @@ A modular 1:18 scale open-wheel racing chassis powered by an ESP32-S3 and design
 ---
 
 ## 🛒 Bill of Materials (BOM)
+*I will try and source the TPU myself to be able to get in HackClub Forge tier 3 under 0-100$.*
 
 | Component                              |          Qty. |       Price | Link                                                                               |
 | -------------------------------------- | ------------: | ----------: | ---------------------------------------------------------------------------------- |
