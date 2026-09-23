@@ -19,9 +19,9 @@ A modular 1:18 scale open-wheel racing chassis powered by an ESP32-S3 and design
 ## 📸 CAD Images
 
 *Figure 1: Work-in-progress Fusion 360 main chassis assembly.*
-https://cdn.hackclub.com/01a0c9ee-b6b0-7591-bfcc-79a1f7769e90/image.png
-https://cdn.hackclub.com/01a0ca4e-26d4-7e85-a0f9-b8720b1d1ab5/image.png
-https://cdn.hackclub.com/01a0ca4e-ede6-78b8-9e22-1d156e8b6272/image.png
+<img width="1066" height="682" alt="image" src="https://github.com/user-attachments/assets/0aedbffc-e7ae-4f0f-9c79-5f89b64117cc" />
+<img width="1098" height="699" alt="image" src="https://github.com/user-attachments/assets/d69dd5f1-3c0b-48ad-ae61-0e9f44b85a74" />
+<img width="376" height="751" alt="image" src="https://github.com/user-attachments/assets/48b42cc2-cd84-411b-9736-bb84bd6ea039" />
 
 ---
 
@@ -29,7 +29,8 @@ https://cdn.hackclub.com/01a0ca4e-ede6-78b8-9e22-1d156e8b6272/image.png
 
 
 *Figure 2: Wiring schematic linking the ESP32-S3, ICM-42688-P IMU, 30A brushed ESC, Battery, motor and digital steering servo.*
-https://cdn.hackclub.com/01a0cf8f-b3ad-767d-8717-9078c31bacfc/image.png
+<img width="894" height="698" alt="image" src="https://github.com/user-attachments/assets/c5f58fe4-4c0f-4d8f-a61e-b7d8f7251ed0" />
+
 
 ---
 
@@ -53,4 +54,4 @@ https://cdn.hackclub.com/01a0cf8f-b3ad-767d-8717-9078c31bacfc/image.png
 
 ## 💻 Firmware
 
-The ESP32-S3 receiver firmware, including ICM-42688-P IMU integration, safety failsafes, and ESP-NOW control, is located in `/firmware/main.ino`.
+The ESP32-S3 receiver firmware, including ICM-42688-P IMU integration, safety failsafes, and ESP-NOW control, is located in `/code/Car code.ino`.
